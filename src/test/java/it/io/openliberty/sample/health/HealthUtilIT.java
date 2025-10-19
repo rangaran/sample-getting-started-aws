@@ -12,7 +12,7 @@
 package it.io.openliberty.sample.health;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
+ 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
